@@ -1,0 +1,13 @@
+[run]
+branch = true
+parallel = true
+
+source = minion_labor_shifts
+         tests
+
+[paths]
+source = src
+         */site-packages
+
+[report]
+fail_under = 100
