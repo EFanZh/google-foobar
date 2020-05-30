@@ -3,7 +3,7 @@ jobs = 0
 
 [MESSAGES CONTROL]
 disable = missing-docstring, no-else-return
-good-names = i, j, k, ex, Run, _, n, h, q
+good-names = i, j, k, ex, Run, _, n, h, q, xs
 
 [FORMAT]
 max-line-length = 120

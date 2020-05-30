@@ -4,6 +4,7 @@ parallel = true
 
 source = challenge_1_1_minion_labor_shifts
          challenge_2_1_ion_flux_relabeling
+         challenge_2_2_power_hungry
          tests
 
 [paths]
