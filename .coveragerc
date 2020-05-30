@@ -3,6 +3,7 @@ branch = true
 parallel = true
 
 source = challenge_1_minion_labor_shifts
+         challenge_2_ion_flux_relabeling
          tests
 
 [paths]
