@@ -1,5 +1,6 @@
 from unittest import TestCase
-from challenge_1_minion_labor_shifts import solution
+
+from challenge_1_1_minion_labor_shifts import solution
 
 
 class SolutionTestCase(TestCase):

@@ -1,5 +1,6 @@
 from unittest import TestCase
-from challenge_2_ion_flux_relabeling import solution
+
+from challenge_2_1_ion_flux_relabeling import solution
 
 
 class SolutionTestCase(TestCase):
