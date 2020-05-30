@@ -2,7 +2,7 @@
 branch = true
 parallel = true
 
-source = minion_labor_shifts
+source = challenge_1_minion_labor_shifts
          tests
 
 [paths]
