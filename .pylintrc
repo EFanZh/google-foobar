@@ -2,8 +2,8 @@
 jobs = 0
 
 [MESSAGES CONTROL]
-disable = missing-docstring, no-else-return
-good-names = i, j, k, ex, Run, _, n, h, q, xs
+disable = deprecated-method, missing-docstring, no-else-return, ungrouped-imports
+good-names = i, j, k, ex, Run, _, n, h, q, xs, m
 
 [FORMAT]
 max-line-length = 120
