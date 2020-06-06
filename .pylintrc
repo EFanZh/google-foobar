@@ -3,7 +3,7 @@ jobs = 0
 
 [MESSAGES CONTROL]
 disable = deprecated-method, missing-docstring, no-else-return, ungrouped-imports
-good-names = i, j, k, ex, Run, _, n, h, q, xs, m
+good-names = i, j, k, ex, Run, _, n, h, q, xs, m, x, y
 
 [FORMAT]
 max-line-length = 120
