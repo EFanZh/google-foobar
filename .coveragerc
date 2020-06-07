@@ -8,6 +8,7 @@ source = challenge_1_1_minion_labor_shifts
          challenge_3_1_doomsday_fuel
          challenge_3_2_bomb_baby
          challenge_3_3_the_grandest_staircase_of_them_all
+         challenge_4_1_running_with_bunnies
          tests
 
 [paths]
